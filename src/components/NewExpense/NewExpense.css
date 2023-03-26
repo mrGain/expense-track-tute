@@ -13,15 +13,18 @@
     font: inherit;
     cursor: pointer;
     padding: 1rem 2rem;
-    background-color: #1746A2;
+    background-color: #5F9DF7;
     color: white;
+    border: none;
     border-radius: 12px;
     margin-right: 1rem;
+    box-shadow: 0 4px 12px rgba(108, 195, 253, 0.432);
   }
   
   .new-expense button:hover,
   .new-expense button:active {
-    background-color: #5F9DF7;
+    background-color: #3684f8;
+    box-shadow: 0 4px 12px rgba(108, 195, 253, 0.83); 
     /* border-color: #510674; */
   }
   
