@@ -26,6 +26,18 @@ const DUMMY_EXPENSES = [
         title: 'New Desk (Wooden)',
         amount: 450,
         date: new Date(2021, 5, 12),
+    },
+    {
+        id: 'e5',
+        title: 'Pen',
+        amount: 12.5,
+        date: new Date(2023, 5, 12),
+    },
+    {
+        id: 'e6',
+        title: 'Netflix',
+        amount: 450,
+        date: new Date(2023, 5, 12),
     }
 ];
 
