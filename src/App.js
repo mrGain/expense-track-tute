@@ -31,13 +31,19 @@ const DUMMY_EXPENSES = [
         id: 'e5',
         title: 'Pen',
         amount: 12.5,
-        date: new Date(2023, 5, 12),
+        date: new Date(2023, 3, 12),
     },
     {
         id: 'e6',
         title: 'Netflix',
         amount: 450,
         date: new Date(2023, 5, 12),
+    },
+    {
+        id: 'e7',
+        title: 'Amazon Prime',
+        amount: 250,
+        date: new Date(2023, 6, 1),
     }
 ];
 
